@@ -7,7 +7,7 @@ docs](https://cloud.google.com/bigquery/user-defined-functions).
 Turns out [tylertreat's BigQuery python
 module](https://github.com/tylertreat/BigQuery-Python) supports udf:
 
-```.python3
+```python
 from oauth2client import client
 import bigquery
 

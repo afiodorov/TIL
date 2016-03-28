@@ -8,4 +8,4 @@ command. Execute:
 bq --format=csv head -n10 [TABLE_NAME] | tabview -
 ```
 
-to quickly browse though first 10 rows of the table.
+to quickly browse though first 10 rows of a table.
