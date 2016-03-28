@@ -4,7 +4,7 @@ Many editors have this functionality by default albeit not Vim. Turns out patchi
 via `syn region` command and a regex job is quite easy. Add the following to your
 `~/.vim/after/syntax/python.vim` file:
 
-```.vimscript
+```vimscript
 " Load SQL syntax
 unlet b:current_syntax
 syn include @SQL syntax/sql.vim
