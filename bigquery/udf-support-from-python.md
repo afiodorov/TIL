@@ -4,7 +4,7 @@ UDF's are BigQuery user-defined functions (written in JavaScript) which
 BigQuery can run for post-processing the query. Find more at the [official
 docs](https://cloud.google.com/bigquery/user-defined-functions).
 
-Turns out [tylertreat's BigQuery python
+Turns out latest [tylertreat's BigQuery python
 module](https://github.com/tylertreat/BigQuery-Python) supports udf:
 
 ```python
