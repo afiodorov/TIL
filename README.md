@@ -8,6 +8,7 @@ A collection of things I've learned on my new job.
 
 * [BigQuery](#bigquery)
 * [Vim](#vim)
+* [CSV](#csv)
 
 ### BigQuery
 
@@ -17,3 +18,7 @@ A collection of things I've learned on my new job.
 ### Vim
 
 - [SQL syntax highlighting inside python files](vim/sql-syntax-python.md)
+
+### CSV
+
+- [Memory-efficient selection of CSV columns](csv/memory-efficient-select.md)
