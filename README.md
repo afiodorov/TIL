@@ -9,6 +9,7 @@ A collection of things I've learned on my new job.
 * [BigQuery](#bigquery)
 * [Vim](#vim)
 * [CSV](#csv)
+* [Statistics](#stats)
 
 ### BigQuery
 
@@ -24,3 +25,8 @@ A collection of things I've learned on my new job.
 ### CSV
 
 - [Memory-efficient selection of CSV columns](csv/memory-efficient-select.md)
+
+
+### Statistics
+
+- [Don't forget to normalise features before interpreting logistic regression](stats/logit-feature-normalisation.md)
