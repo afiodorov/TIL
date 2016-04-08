@@ -10,6 +10,7 @@ A collection of things I've learned on my new job.
 * [Vim](#vim)
 * [CSV](#csv)
 * [Statistics](#stats)
+* [Pandas](#pandas)
 
 ### BigQuery
 
@@ -30,3 +31,6 @@ A collection of things I've learned on my new job.
 ### Statistics
 
 - [Don't forget to normalise features before interpreting logistic regression](stats/logit-feature-normalisation.md)
+
+### Pandas
+- [Don't make pandas guess the type](pandas/dont-guess-the-type.md)
