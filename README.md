@@ -34,3 +34,6 @@ A collection of things I've learned on my new job.
 
 ### Pandas
 - [Don't make pandas guess the type](pandas/dont-guess-the-type.md)
+
+### Python
+- [Multiprocessing module is quite limited](python/multiprocessing-is-limited.md)
