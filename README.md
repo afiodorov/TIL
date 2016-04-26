@@ -37,3 +37,4 @@ A collection of things I've learned on my new job.
 
 ### Python
 - [Multiprocessing module is quite limited](python/multiprocessing-is-limited.md)
+- [Don't create types.py file](python/types-dot-py-file.md)
